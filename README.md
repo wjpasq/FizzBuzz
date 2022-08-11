@@ -2,7 +2,7 @@
 My python solution to the popular FizzBuzz programming excercise
 
 ### FizzBuzz
-The FizzBuzz problem defined as:
+The FizzBuzz problem defined as:\n
 Given an integer (n), returns a string array (1-indexed) where
 answer[i] == "FizzBuzz" if i is divisible by 3 and 5.
 answer[i] == "Fizz" if i is divisible by 3.
